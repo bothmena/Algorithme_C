@@ -1,0 +1,102 @@
+Initialisation...
+--------------------------
+
+Remplissage de la semaine...
+listes des commandes :
+	1: vendre un gatteaux au chocolat.
+	2: vendre un gatteaux au nougatine.
+	3: vendre un gatteaux au pistache.
+	0: passer à la prochaine journée.
+[lundi   ] votre choix: 1
+[lundi   ] votre choix: 2
+[lundi   ] votre choix: 1
+[lundi   ] votre choix: 2
+[lundi   ] votre choix: 3
+[lundi   ] votre choix: 3
+[lundi   ] votre choix: 2
+[lundi   ] votre choix: 3
+[lundi   ] votre choix: 0
+[mardi   ] votre choix: 1
+[mardi   ] votre choix: 2
+[mardi   ] votre choix: 1
+[mardi   ] votre choix: 3
+[mardi   ] votre choix: 0
+[mercredi] votre choix: 1
+[mercredi] votre choix: 2
+[mercredi] votre choix: 2
+[mercredi] votre choix: 1
+[mercredi] votre choix: 3
+[mercredi] votre choix: 3
+[mercredi] votre choix: 3
+[mercredi] votre choix: 0
+[jeudi   ] votre choix: 3
+[jeudi   ] votre choix: 2
+[jeudi   ] votre choix: 1
+[jeudi   ] votre choix: 1
+[jeudi   ] votre choix: 1
+[jeudi   ] votre choix: 1
+[jeudi   ] votre choix: 1
+[jeudi   ] votre choix: 3
+[jeudi   ] votre choix: 0
+[vendredi] votre choix: 3
+[vendredi] votre choix: 2
+[vendredi] votre choix: 1
+[vendredi] votre choix: 1
+[vendredi] votre choix: 2
+[vendredi] votre choix: 3
+[vendredi] votre choix: 2
+[vendredi] votre choix: 0
+[samedi  ] votre choix: 1
+[samedi  ] votre choix: 2
+[samedi  ] votre choix: 3
+[samedi  ] votre choix: 3
+[samedi  ] votre choix: 2
+[samedi  ] votre choix: 1
+[samedi  ] votre choix: 1
+[samedi  ] votre choix: 3
+[samedi  ] votre choix: 3
+[samedi  ] votre choix: 0
+[dimanche] votre choix: 3
+[dimanche] votre choix: 2
+[dimanche] votre choix: 1
+[dimanche] votre choix: 1
+[dimanche] votre choix: 2
+[dimanche] votre choix: 3
+[dimanche] votre choix: 2
+[dimanche] votre choix: 1
+[dimanche] votre choix: 3
+[dimanche] votre choix: 0
+--------------------------
+
+Calcul de la recette...
+--------------------------
+Selection Top: 
+
+Jour    	Chocolat	nougatine	pistache	Recette
+lundi   	2           3           3           26.000000
+mardi   	2           1           1           12.000000
+mercredi	2           2           3           22.799999
+jeudi   	5           1           2           23.299999
+vendredi	2           3           2           22.200001
+samedi  	3           2           4           29.099998
+dimanche	3           3           3           28.500000
+--------------------------
+
+Selection Top:
+meilleur gout par jour: 
+lundi    => Pistache (11.400000DT)
+mardi    => Chocolat (5.000000DT)
+mercredi => Pistache (11.400000DT)
+jeudi    => Chocolat (12.500000DT)
+vendredi => Nougatine (9.600000DT)
+samedi   => Chocolat (7.500000DT)
+dimanche => Pistache (11.400000DT)
+meilleur jour du semaine: samedi   (29.099998Dt)
+--------------------------
+
+Calcul de la moyenne...
+la moyenne des prix de la semaine est: 19.699999
+--------------------------
+Calcul de l'ecart type...
+l'ecart type des prix de la semaine est: 431.517334
+--------------------------
